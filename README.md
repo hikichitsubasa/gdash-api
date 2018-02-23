@@ -1,2 +1,0 @@
-# gdash-api
-Gdash Project
